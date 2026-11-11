@@ -1,0 +1,30 @@
+2026-11-10T20:53:09.331761400 - MaterialNoDisponibleException - El material ya está prestado.
+2026-11-10T20:53:09.349861300 - MaterialNoEncontradoException - El material no fue encontrado.
+2026-11-10T20:53:09.350864500 - UsuarioNoEncontradoException - El usuario no fue encontrado.
+2026-11-10T20:53:09.351866 - MaximoPrestamosException - El usuario ha alcanzado el máximo de 3 préstamos.
+2026-11-10T20:57:40.780884 - MaterialNoDisponibleException - El material ya está prestado.
+2026-11-10T20:57:40.791019400 - MaterialNoEncontradoException - El material no fue encontrado.
+2026-11-10T20:57:40.792024 - UsuarioNoEncontradoException - El usuario no fue encontrado.
+2026-11-10T20:57:40.792024 - MaximoPrestamosException - El usuario ha alcanzado el máximo de 3 préstamos.
+2026-11-10 21:39:31 - El usuario Henry Sandoval (ID: 2) intentó solicitar el material L1, pero ocurrió MaterialNoDisponibleException: El material ya está prestado.
+2026-11-10 21:39:31 - El usuario Alexander Bueno (ID: 1) intentó solicitar el material L99, pero ocurrió MaterialNoEncontradoException: El material no fue encontrado.
+2026-11-10 21:39:31 - El usuario con ID 99 (no encontrado) intentó solicitar el material L2, pero ocurrió UsuarioNoEncontradoException: El usuario no fue encontrado.
+2026-11-10 21:39:31 - El usuario Alexander Bueno (ID: 1) intentó solicitar el material R1, pero ocurrió MaximoPrestamosException: El usuario ha alcanzado el máximo de 3 préstamos.
+2026-11-10 21:48:15 - El usuario Henry Sandoval (ID: 2) intentó solicitar el libro "Cien años de soledad" (L1), pero ocurrió MaterialNoDisponibleException: El material ya está prestado.
+2026-11-10 21:48:15 - El usuario Alexander Bueno (ID: 1) intentó solicitar el material con ID L99, pero ocurrió MaterialNoEncontradoException: El material no fue encontrado.
+2026-11-10 21:48:15 - El usuario con ID 99 (no encontrado) intentó solicitar el libro "La isla bajo el mar" (L2), pero ocurrió UsuarioNoEncontradoException: El usuario no fue encontrado.
+2026-11-10 21:48:15 - El usuario Alexander Bueno (ID: 1) intentó solicitar la revista "Cosmopolitan" (R1), pero ocurrió MaximoPrestamosException: El usuario ha alcanzado el máximo de 3 préstamos.
+2026-11-10 22:02:34 - El usuario Henry Sandoval (ID: 2) intentó solicitar el libro "Cien años de soledad" (L1), pero ocurrió MaterialNoDisponibleException: El material ya está prestado.
+2026-11-10 22:02:34 - El usuario Alexander Bueno (ID: 1) intentó solicitar el material con ID L99, pero ocurrió MaterialNoEncontradoException: El material no fue encontrado.
+2026-11-10 22:02:34 - El usuario con ID 99 (no encontrado) intentó solicitar el libro "La isla bajo el mar" (L2), pero ocurrió UsuarioNoEncontradoException: El usuario no fue encontrado.
+2026-11-10 22:02:34 - El usuario Alexander Bueno (ID: 1) intentó solicitar la revista "Cosmopolitan" (R1), pero ocurrió MaximoPrestamosException: El usuario ha alcanzado el máximo de 3 préstamos.
+2026-11-10 22:07:03 - El usuario Henry Sandoval (ID: 2) intentó solicitar el libro "Cien años de soledad" (L1), pero ocurrió MaterialNoDisponibleException: El material ya está prestado.
+2026-11-10 22:07:03 - El usuario Alexander Bueno (ID: 1) intentó solicitar el material con ID L99, pero ocurrió MaterialNoEncontradoException: El material no fue encontrado.
+2026-11-10 22:07:03 - El usuario con ID 99 (no encontrado) intentó solicitar el libro "La isla bajo el mar" (L2), pero ocurrió UsuarioNoEncontradoException: El usuario no fue encontrado.
+2026-11-10 22:07:03 - El usuario Alexander Bueno (ID: 1) intentó solicitar la revista "Cosmopolitan" (R1), pero ocurrió MaximoPrestamosException: El usuario ha alcanzado el máximo de 3 préstamos.
+2026-11-10 22:07:03 - El usuario Henry Sandoval (ID: 2) intentó devolver el libro "Cocorí" (L3), pero ocurrió MaterialNoEncontradoException: El usuario Henry Sandoval no tiene prestado el material "Cocorí" (ID: L3).
+2026-11-11 17:22:34 - El usuario Henry Sandoval (ID: 2) intentó solicitar el libro "Cien años de soledad" (L1), pero ocurrió MaterialNoDisponibleException: El material ya está prestado.
+2026-11-11 17:22:34 - El usuario Alexander Bueno (ID: 1) intentó solicitar el material con ID L99, pero ocurrió MaterialNoEncontradoException: El material no fue encontrado.
+2026-11-11 17:22:34 - El usuario con ID 99 (no encontrado) intentó solicitar el libro "La isla bajo el mar" (L2), pero ocurrió UsuarioNoEncontradoException: El usuario no fue encontrado.
+2026-11-11 17:22:34 - El usuario Alexander Bueno (ID: 1) intentó solicitar la revista "Cosmopolitan" (R1), pero ocurrió MaximoPrestamosException: El usuario ha alcanzado el máximo de 3 préstamos.
+2026-11-11 17:22:34 - El usuario Henry Sandoval (ID: 2) intentó devolver el libro "Cocorí" (L3), pero ocurrió MaterialNoEncontradoException: El usuario Henry Sandoval no tiene prestado el material "Cocorí" (ID: L3).
